@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divisions of the Church of England crept in at XV. several doores by divers, each having members very earnest in the seeking to have such a church and discipline here established, as is agreeable with their religion. For bishops 1 Papists. 2. Arians. 3. Arminians. 4. Canonists. Against Bishops. 5. Athests. 6. Adamites. 7. Familists. 8. Anabapists. 9. Luthetans. 10. Seperatists. 11. Brownists. 12. Puritans. Betwixt both. Novelists. Time-servers. Each in their true colours without any dissimulation in the world.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95538</idno>
+            <idno type="STC">Wing T454</idno>
+            <idno type="STC">Thomason E180_10</idno>
+            <idno type="STC">ESTC R7251</idno>
+            <idno type="EEBO-CITATION">99873097</idno>
+            <idno type="PROQUEST">99873097</idno>
+            <idno type="VID">125551</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125551)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divisions of the Church of England crept in at XV. several doores by divers, each having members very earnest in the seeking to have such a church and discipline here established, as is agreeable with their religion. For bishops 1 Papists. 2. Arians. 3. Arminians. 4. Canonists. Against Bishops. 5. Athests. 6. Adamites. 7. Familists. 8. Anabapists. 9. Luthetans. 10. Seperatists. 11. Brownists. 12. Puritans. Betwixt both. Novelists. Time-servers. Each in their true colours without any dissimulation in the world.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sould by R. Smithers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Domini. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Taylor by Wing.</note>
+                  <note>"Papists ... Canonists" and "Atheists ... Time-servers" are bracketed together on title page.</note>
+                  <note>Features illustrated postscript with accompanying verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125551:1"/>
+            <pb facs="tcp:125551:1" rendition="simple:additions"/>
+            <p>THE DIVISIONS Of the Church of ENGLAND CREPT IN AT XV. SEVERAL DOORES BY DIVERS, Each having Members very earneſt in the ſeeking to have ſuch a Church and Diſcipline here eſtabliſhed, as is agreeable with their Religion.</p>
+            <p>
+               <list>
+                  <head>For Biſhops</head>
+                  <item>1 Papiſts.</item>
+                  <item>2. Arians.</item>
+                  <item>3. Arminians.</item>
+                  <item>4. Canoniſts.</item>
+               </list>
+            </p>
+            <p>
+               <list>
+                  <head>Againſt Biſhops.</head>
+                  <item>5. Atheſts.</item>
+                  <item>6. Adamites.</item>
+                  <item>7. Familiſts.</item>
+                  <item>8. Anabaptiſts.</item>
+                  <item>9. Luthetans.</item>
+                  <item>10. Seperatiſts.</item>
+                  <item>11. Browniſts.</item>
+                  <item>12. Puritans.</item>
+               </list>
+               <list>
+                  <head>Betwixt both.</head>
+                  <item>Noveliſts.</item>
+                  <item>Time-ſervers.</item>
+               </list>
+            </p>
+            <p>Each in their true colours without any diſſimulation in the world.</p>
+            <p>
+               <hi>LONDON Printed</hi> and are to be ſould by R. <hi>Smithers.</hi> Anno Domini. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125551:2"/>
+            <pb facs="tcp:125551:2"/>
+            <head>The Diviſions of the Church of England.</head>
+            <p>FIrſt, Atheiſts among us, are ſuch people who would have no church-government here at all, but live in an independant way, as themſelvs pleaſe, without controll, having no Church-diſcipline, nor regarding, nor caring for Godly people, their com<g ref="char:EOLhyphen"/>pany, nor their prayers.</p>
+            <p n="2">2. <hi>Roman Catholicks</hi> among us, are a people who would have a church conſiſting of <hi>Cardinals, Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops, deacons, Ieſuits, Fryers,</hi> &amp;c. indepen<g ref="char:EOLhyphen"/>dent to the crowne or civill Magiſtrate, and all the Diſcipline of the church to be wholly ordered by the Clergie, and uſed in what manner, where, where, and as they pleaſe, no man having authority to que<g ref="char:EOLhyphen"/>ſtion them why they doe thus: or thus. The ſervice booke and the Maſſe-booke they would have in la<g ref="char:EOLhyphen"/>tin exactly performed, confeſſion to the Prieſt, and abſolution from him, and no prayers to be uſed, but what they allow.</p>
+            <p n="3">3. The <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians</hi> among us are a people who would have an high prieſt to be above the reſt, and all the reſt of the Clergy to be Prelates or Prieſts at the leaſt, and no office or duty to be performed by them without Rochet, ſurplice, cap, tippet, or the like, ac<g ref="char:EOLhyphen"/>cording to their degree, and the ſervice to be exactly
+<pb facs="tcp:125551:3"/>performed with Organs, and other muſicke, &amp; ſing<g ref="char:EOLunhyphen"/>ing as is appointed by the high Prieſts, that is the Biſhops, &amp;c.</p>
+            <p n="4">4 The Arminians among us, are a people, who would have the church governed by Arch-biſhops, Biſhops, &amp;c. to whom ſhould be given ſuch authori<g ref="char:EOLhyphen"/>ty and reſpect, that whatſoever they in their Court doe eſtabliſh out to be confirmed by the King, and his Counſell, to whom they would have ſuch reſpect given, that they ſhuld not be thwarted in any deſign. Theſe would have the Diſcipline of the church to conſiſt in the Prelats Courts, and what is there done by them, their Doctors, proctors, &amp;c. to paſſe unreſi<g ref="char:EOLhyphen"/>ſtably in the church, or to any member thereof, the firſt and latter ſervice they would have exactly per<g ref="char:EOLhyphen"/>formed, one at the desk, the other at the Altar, with their cuſhions, baſons, wax candles, and the reſt of that rabblement, ſet in places as appointed before them.</p>
+            <p n="5">5. Adamites are a people, who would have an in<g ref="char:EOLhyphen"/>dependent ſociety, which neither Magiſtrate nor church ſhould command, nor meddle with, but live as they liſt, and labour to increaſe and multiply in the world, fearing neither government, nor diſci<g ref="char:EOLhyphen"/>pline, and in their ſocieties, they are ſo overcome with luſt, that they cannot pray.</p>
+            <p n="6">6. Famaliſts among us, are a people who would have an independent church, neither would they have any Biſhops, Elders, presbetors, nor Govern<g ref="char:EOLhyphen"/>ment in the church, and would have all things com<g ref="char:EOLhyphen"/>mon, not onely goods, &amp; cattell, but wife and chil<g ref="char:EOLhyphen"/>dren, And that no puniſhment ſhould be inflicted upon any offender, but onely to pray for them, and ſo leave them to the mercy of God.</p>
+            <p n="7">
+               <pb facs="tcp:125551:3"/> 7. Anabaptiſts amongſt us, are a people who would have an independent church, neither wold they have any government of the Clergy at all in the church, for feare of an <hi>Antichriſtian church,</hi> neither would they have any baptized, but ſuch who are of age, and judgment, to know what it is to be baptized. Theſe would have churches, meetings, &amp; members of their owne election, and take in, and caſt out whom they pleaſe, and their prayers are more that God would grant thema church after their deſire, then for grace and faith.</p>
+            <p n="8">8. Noveliſts amongſt vs, are a people who affects change of government, and diſcipline, to day they follow the Biſhops to hear them preach at Court, then they applaud the government, another day they follow the religius divines in <hi>London,</hi> then they cry down the Biſhopr, for an <hi>Antichriſtian government,</hi> another time they begin to pauſe upon it, &amp; conſider of the pleaſantneſſe of the formality, of the <hi>Church of Rome,</hi> and yet are never conſtant in any thing, one while they are all for the hearing of the ſervice in <hi>Cathedralt,</hi> and by &amp; by they care not for the ſervice, and onely follow Sermons.</p>
+            <p n="9">9. Time ſervers are thoſe who are alwayes of the ſtrongeſt ſide, as neare as they can, when moſt would have Biſhops, ſo would they, when the Biſhops are likely to goe downe then they would have none, they commend no Diſcipline but that which they ſee they are like to have, in Cathedrals they commend all their ceremonies, but where the Service is not read, or in company that ſo affect it they command, and applaud prayer by the ſpirit. 10. <hi>Canoniſts</hi> are thoſe amongſt us, that would have the government of Biſhops ſtill to abide, becauſe they ſtand by Canon Law upon the ſame grounds, they labour for <hi>Canon-diſcipline,</hi> and the ca<g ref="char:EOLhyphen"/>nonicall houres and forme of prayer, and all other canoni<g ref="char:EOLhyphen"/>call Rites and ceremonies.</p>
+            <p n="11">
+               <pb facs="tcp:125551:4"/> 11. <hi>Lutherans</hi> are thoſe amongſt us, who would have no Biſhops, but a <hi>Church-government</hi> under the king, conſiſting of the Clergie and Laity together: and whatſoever in the diſcipline ordinances of the church is of man, and correſpondent to the church of Rome to be altered and changed to the neareſt conformity to the primitive church.</p>
+            <p n="12">12. Seperatiſts are a people among us, who would have the Biſhops caſt out, &amp; the government of the Church committed to Elders Eccleſiaſticall, and Layicke, and moreover an independent church-go<g ref="char:EOLhyphen"/>vernment granted beſides, for the free uſe of liberty of conſcience without correction, or controll in di<g ref="char:EOLhyphen"/>vine ordinances, and Eccleſiaſticall diſcipline, onely popery and popiſh Innovations excepted.</p>
+            <p n="13">13. <hi>Brown<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts</hi> are a people among us, who would have the Biſhops caſt out, and their diſcipline, and the booke of <hi>Common-prayer</hi> no more uſed, but the Government of Elders eſtabliſhed to governe the church, and ſuch Diſcipline confirmed by the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> as ſhall be by the Church preſented, when the evill Members are caſt out, and no prayers to be uſed but <hi>extemporary</hi> prayers, and that whoſoever have received the guift of preaching, may freely preach, of what calling or condition ſoever he be, in caſe he be a godly man, &amp; by the church approved.</p>
+            <p n="14">14 <hi>Puritans</hi> among us are a people, who would have the Biſhops removed, and the church no more to be ruled by them: but by a <hi>Presbyteriall Govern<g ref="char:EOLhyphen"/>ment,</hi> as it is in <hi>Scotland,</hi> and the very ſame <hi>Govern<g ref="char:EOLhyphen"/>ment diſcipline,</hi> &amp; <hi>ordinances</hi> which they have, they would have here, approving of it in their judgments
+<pb facs="tcp:125551:4"/>and conceive it to bee the happieſt Government in the world; eſpecially if we enjoy it, becauſe the Church in <hi>Scotland,</hi> and ours in <hi>England,</hi> is all in one and the ſame Iland, and under one and the ſame King.</p>
+            <p n="15">15 The <hi>Author,</hi> and thoſe of his mind, pray to God for a Reformation, and that God would bee with the great Aſſembly in the ſetling thereof, wai<g ref="char:EOLhyphen"/>ting Gods time, and their accompliſhment thereof: not doubting, but that God will be with them, to worke ſuch a reformation, as ſhall make the church of <hi>England</hi> glorious, and what that high Court ſhall eſtabliſh, we doubt not, but that their Decla<g ref="char:EOLhyphen"/>ration will bee ſufficient to give ſatisfaction to all true hearted Proteſtants, and all who wiſh well to the King, Church, and Kingdome of <hi>England.</hi>
+            </p>
+            <p n="16">16 All true hearted Proteſtants deſire and pray, that God would bee pleaſed, to bee with that great Aſſembly, and to guide them, that they may eſta<g ref="char:EOLhyphen"/>bliſh ſuch things, and only ſuch as may be pleaſing to Almighty God, for the honour of the King, the comfort to the Church, and the good of the whole Kingdome, and that for Chriſt his ſake, <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
